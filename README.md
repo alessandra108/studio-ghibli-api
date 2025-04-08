@@ -1,6 +1,5 @@
 # 🎥 **Studio Ghibli API** 🌟
 
----
 
 ## 📖 **Introdução**
 
