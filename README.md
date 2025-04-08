@@ -1,5 +1,7 @@
 # 🎥 **Studio Ghibli API** 🌟
 
+---
+
 ## 📖 **Introdução**
 
 Neste projeto, desenvolvi uma aplicação utilizando **React** que consome a **API pública do Studio Ghibli**. O objetivo foi exibir uma lista de filmes em formato de **cards**, trazendo algumas informações importantes de cada um, como:
