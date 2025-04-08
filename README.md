@@ -5,7 +5,7 @@
 Neste projeto, desenvolvi uma aplicação utilizando **React** que consome a **API pública do Studio Ghibli**. O objetivo foi exibir uma lista de filmes em formato de **cards**, trazendo algumas informações importantes de cada um, como:
 
 - Título do filme
-- Imagem (como se fosse um pôster)
+- Imagem 
 - Diretor
 - Produtor
 - Ano de lançamento
